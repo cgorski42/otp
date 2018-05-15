@@ -1,0 +1,14 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "node and express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Gorski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
